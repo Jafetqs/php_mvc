@@ -1,0 +1,1 @@
+<h1 class="text-center my-5">Error 404, La página que buscas NO EXISTE</h1>
